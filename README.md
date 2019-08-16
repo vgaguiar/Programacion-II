@@ -1,1 +1,2 @@
 Valentina Gonzalez
+Patricio Zarauz
