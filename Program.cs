@@ -8,6 +8,8 @@ namespace Programacion_II
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Valentina Gonzalez");
+            Console.WriteLine("Patricio Zarauz");
+
         }
     }
 }
